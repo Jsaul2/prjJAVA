@@ -1,5 +1,15 @@
+# .gitigone FILE
+## Global File
 .metadata
 .recommenders
+
+### Projet ArabeToRomain
 ArabeToRomain/.settings
 ArabeToRomain/.classpath
 ArabeToRomain/.project
+
+## Classe_exo File
+### Projet Classe_exo1
+Classe_exo/Classe_exo1/.settings
+Classe_exo/Classe_exo1/.classpath
+Classe_exo/Classe_exo1/.project
